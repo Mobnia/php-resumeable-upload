@@ -1,0 +1,23 @@
+{
+  "name": "Resumeable Upload",
+  "description": "A simple implementation of a resumeable upload server in PHP",
+  "keywords": [
+    "mobnia",
+    "upload",
+    "resumeable"
+  ],
+  "homepage": "http://www.mobnia.com",
+  "authors": [
+    {
+      "name": "Obinna Agba",
+      "email": "obinna@mobnia.com",
+      "homepage": "http://www.mobnia.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "klein/klein": "2.1.0",
+    "ext-curl": "*"
+  }
+}
